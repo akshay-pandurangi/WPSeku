@@ -73,7 +73,7 @@ class WPSeku(object):
 		print "\t-p --proxy\tSet proxy (host:port)"
 		print "\t-a --agent\tSet user-agent"
 		print "\t-c --cookie\tSet cookie"
-		print "\t-r --redirect\tRedirection target url, defaul=True"
+		print "\t-r --redirect\tRedirection target url, default=True"
 		print "\t-h --help\tShow this help and exit\n"		
 		print "Examples:"
 		print "\t{} -t http://www.target.com".format(name)
